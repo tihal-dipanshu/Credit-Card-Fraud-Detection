@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# CFraud Transactions Analyser
 As the market is being digitalised at an fast pace Online Transactions have seen a Growth and with this Frauds too.
 
 Credit Card Frauds are more common and lately, they've been on the higher side.
